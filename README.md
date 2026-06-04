@@ -3,7 +3,26 @@
 A full-stack web application for rating registered stores.
 Built with **Express.js + MySQL + React (Vite)**.
 
+
+## 📸 App Showcase
+
+### 🔐 Authentication
+| Login Page | Create Account Page |
+|:---:|:---:|
+| ![Login Page](screenshots/login.png) | ![Create Account Page](screenshots/register.png) |
+
+### 👑 Admin Workspace
+| Admin Dashboard | User Management |
+|:---:|:---:|
+| ![Admin Dashboard](screenshots/admin_dashboard.png) | ![User Management](screenshots/admin_users.png) |
+
+### ☕ Store Owner Portal
+| Store Owner Dashboard |
+|:---:|
+| ![Store Owner Dashboard](screenshots/owner_dashboard.png) |
+
 ---
+
 
 ## 🛠 Setup Instructions
 
